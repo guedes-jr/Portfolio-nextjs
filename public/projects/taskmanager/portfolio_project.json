@@ -1,0 +1,24 @@
+{
+  "name": "TaskManager Pro",
+  "description": "Aplicativo de gerenciamento de tarefas com recursos avançados como categorização, priorização, lembretes e compartilhamento de tarefas em equipe. Ideal para profissionais e equipes que precisam organizar seu fluxo de trabalho.",
+  "technologies": ["React", "Node.js", "Express", "MongoDB", "Socket.io"],
+  "repository": "https://github.com/seu-usuario/TaskManagerPro",
+  "demo": "https://taskmanagerpro.vercel.app",
+  "status": "Concluído",
+  "features": [
+    "Criação e gerenciamento de tarefas com categorias personalizáveis",
+    "Sistema de priorização com código de cores",
+    "Lembretes por e-mail e notificações push",
+    "Compartilhamento de tarefas e colaboração em equipe",
+    "Estatísticas de produtividade e relatórios",
+    "Modo offline com sincronização automática"
+  ],
+  "image": "/placeholder.svg?height=400&width=800&text=TaskManager+Pro",
+  "author": {
+    "name": "João Guedes",
+    "github": "https://github.com/guedes-jr",
+    "linkedin": "https://linkedin.com/in/seu-perfil"
+  },
+  "last_update": "2025-02-15"
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "PortfolioX",
+  "description": "Sistema de gerenciamento de investimentos que permite controle de ativos financeiros, sugestões de investimentos e integração com a B3. Conta com uma interface intuitiva para facilitar a visualização e gestão de portfólio.",
+  "technologies": ["Django 5", "Next.js 14", "Prisma", "PyQt", "PostgreSQL"],
+  "repository": "https://github.com/seu-usuario/PortfolioX",
+  "demo": "https://portfoliox.vercel.app",
+  "status": "Em desenvolvimento",
+  "features": [
+    "Cadastro e gerenciamento de ativos financeiros",
+    "Sugestão automática de investimentos",
+    "Integração com a API da B3",
+    "Geração de relatórios para imposto de renda",
+    "Autenticação segura para usuários",
+    "Painel administrativo para gestão avançada"
+  ],
+  "image": "/placeholder.svg?height=400&width=800&text=PortfolioX",
+  "author": {
+    "name": "João Guedes",
+    "github": "https://github.com/guedes-jr",
+    "linkedin": "https://linkedin.com/in/seu-perfil"
+  },
+  "last_update": "2025-03-22"
+}
+
